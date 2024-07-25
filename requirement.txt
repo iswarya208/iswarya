@@ -1,2 +1,2 @@
-scikit_learn.py
+scikit-learn
 matplot.py
